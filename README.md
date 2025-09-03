@@ -11,7 +11,7 @@ Technologies: Python, OpenCV, Scikit-learn, Streamlit, NumPy, Joblib
 # Dataset
 
 The dataset size is large, so please download it from the link provided.
-
+https://drive.google.com/drive/folders/1qOWL1umEOnIK6t4Kivt3MLaswHIKZTei?usp=sharing
 
 After downloading, place the dataset folder inside the project folder.
 
