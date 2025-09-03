@@ -1,4 +1,4 @@
-# Psoriasis Detection
+# Psoriasis Detection ( please read all the isntructions otherwise it will not work correctly)
 
 Psoriasis Skin Disease Detection using ML & Image Processing
 
@@ -35,6 +35,10 @@ Psoriasis-detection/           (/ indicates folder)
 ├─ app.py
 ├─ model_train.py
 └─ psoriasis_model.pkl
+
+# plss download all the required libraries given in "requirement.text file " (plss see the file section)
+
+
 
 
 
